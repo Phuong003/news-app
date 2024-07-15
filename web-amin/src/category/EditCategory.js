@@ -1,6 +1,6 @@
-import React, { useState, useEffect } from 'react';
-import swal from 'sweetalert';
+import React, { useEffect, useState } from 'react';
 import { useParams } from 'react-router-dom';
+import swal from 'sweetalert';
 import AxiosInstance from '../helper/AxiosInstance';
 import HeaderCategory from '../layout/HeaderCategory';
 
